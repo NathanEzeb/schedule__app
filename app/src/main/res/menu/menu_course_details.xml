@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/courseSave"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Save Course" />
+    <item
+        android:id="@+id/courseDelete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Delete Course" />
+    <item
+        android:id="@+id/noteShare"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Share Note" />
+    <item
+        android:id="@+id/endDateNotify"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="End Date Notify" />
+    <item
+        android:id="@+id/startDateNotify"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Start Date Notify" />
+</menu>

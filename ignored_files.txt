@@ -1,0 +1,2 @@
+.gitignore:2:.gradle	"C:\\Users\\natha\\AndroidStudioProjects\\Try2\\.gradle"
+.gitignore:15:local.properties	"C:\\Users\\natha\\AndroidStudioProjects\\Try2\\local.properties"
